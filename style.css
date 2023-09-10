@@ -1,0 +1,111 @@
+.size{
+
+    font-size: 80px;
+}
+
+
+.box1{
+
+    display: inline-block;
+    background-color: #f7c9c9;
+    color: rgb(226, 0, 0);
+    padding: 5px 15px;
+    margin: 0px;
+    border-radius: 50px;
+}
+.imagefi{
+
+    width: 200px;
+    margin: 70px auto;
+}
+
+.r2{
+
+    background:  #ffe6e6;
+}
+.imgart{
+
+    width: 20px;
+}
+.redb{
+
+    display: inline-block;
+    padding: 10px 25px;
+    border-radius: 55px;
+    background-color: #fc0000;
+    color: white;
+}
+/* .icons{
+
+    font-size: 50px;
+    padding: 20px 0px;
+    color: #fc0000;
+    
+
+} */
+.wi{
+
+    width: 300px;
+}
+.boxx{
+
+    border: 1px solid gray;
+    border-radius: 30px;
+    padding: 20px;
+}
+.boxpink{
+
+    background:  #ffe6e6;
+    display: inline-block;
+    width: 90%;
+    text-align: left;
+    padding: 10px;
+    border-radius: 10px;
+}
+.boxx1{
+
+    background:  #ffe6e6;
+    padding: 10px;
+    text-align: left;
+    border-radius: 10px;
+    
+}
+.ikh{
+       width: 200px;
+}
+.imgpnga{
+
+    width: 200px;
+}
+.hji{
+
+    display: inline-block;
+    padding: 5px 20px;
+    border-radius: 5px;
+    background-color: #fd0000;
+    color: white;
+
+}
+.ijjj{
+
+    font-size: 50px;
+}
+.ii{
+    display: inline-block;
+    
+}
+
+.okok{
+
+    z-index: 1;
+}
+
+ul > li > a:hover{
+
+    background: #dfdada;
+    border-radius: 8px;
+}
+ul > li{
+
+    margin-left: 5px;
+}
